@@ -1,0 +1,21 @@
+/home/swc/Desktop/test
+.
+..
+auto.sh
+.git
+.
+..
+Analyzing patient data.ipynb
+chromium-browser.desktop
+data
+firefox.desktop
+Function.ipynb
+if-else.ipynb
+.ipynb_checkpoints
+list_data_file.txt
+list.txt
+Loop.ipynb
+loop.sh
+lxterminal.desktop
+test
+user_info
